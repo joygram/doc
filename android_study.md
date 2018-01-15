@@ -2,6 +2,10 @@
 
 https://kairo96.gitbooks.io/android/content/ch2.8.html
 
+## creating a system overlay (always on top over all apps)
+https://gist.github.com/bjoernQ/6975256
+
+## transparent activity 
 https://stackoverflow.com/questions/2176922/how-do-i-create-a-transparent-activity-on-android
 
 ~~~
